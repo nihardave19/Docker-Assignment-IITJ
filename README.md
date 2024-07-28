@@ -75,3 +75,9 @@ git push -u origin main
 
 Conclusion
 This guide walks you through the process of setting up a simple PHP web application using Docker, pushing the code to GitHub, and managing branches effectively. By following these steps, you will be able to create a portable and easily deployable web application environment.
+
+Screenshots
+![php_app_localhost](https://github.com/user-attachments/assets/5149b4ea-0915-49c5-82a3-09018d0fd81a)
+
+![docker_container](https://github.com/user-attachments/assets/602a2a5d-ca4c-418e-8ef8-1397ec35626b)
+
