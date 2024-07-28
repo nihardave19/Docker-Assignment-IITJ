@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./vcc_app.php:/var/www/html/vcc_app.php
+    environment:
+      APACHE_RUN_USER: www-data
+      APACHE_RUN_GROUP: www-data
